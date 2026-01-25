@@ -101,19 +101,7 @@ This repository is designed to strengthen core programming concepts, ranging fro
 
 ---
 
-## 📂 Repository Structure (Suggested)
 
-DSA-Lab-Implementations/
-│
-├── Arrays_and_Pointers/
-├── Sorting_Algorithms/
-├── Searching_Algorithms/
-├── Stack/
-├── Queue/
-├── Doubly_Linked_List/
-└── README.md
-
----
 
 ## 🚀 Learning Outcomes
 
